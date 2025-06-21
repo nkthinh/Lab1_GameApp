@@ -1,28 +1,16 @@
-# Dependencies
+# React Native
 node_modules/
-
-# Expo
 .expo/
 .expo-shared/
-
-# OS generated files
-.DS_Store
-Thumbs.db
-
-# VS Code
-.vscode/
-
-# Logs
-*.log
-
-# Environment variables
-.env
-
-# Android / iOS build folders (nếu có eject)
 android/
 ios/
-
-# Other
+*.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+*.gradle
+*.keystore
+*.idea/
+*.vscode/
+*.DS_Store
+.env
